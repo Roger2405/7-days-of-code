@@ -1,0 +1,13 @@
+:root {
+    --vermelho: #8E2424;
+    --branco: #FFFFFF;
+    --cinza: #667085;
+    --cinza-escuro: #3A404E;
+    --azul-escuro: #101828;
+
+    --texto-corpo: 'Inter', sans-serif;
+
+    --peso-texto-normal: 400;
+    --peso-texto-medio: 500;
+    --peso-texto-destaque: 600;
+}

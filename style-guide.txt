@@ -1,0 +1,10 @@
+Font-family: 'Inter' ;
+font-weight: 500 600;
+font-size: 18px 16px 48px;
+line-height: 24px 60px
+
+--vermelho: #8E2424;
+--branco: #FFFFFF;
+--cinza: #667085;
+--cinza-escuro: #3A404E;
+--azul-escuro: #101828;

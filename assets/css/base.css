@@ -1,0 +1,22 @@
+@import url(_variaveis.css);
+
+* {
+    font-family: var(--texto-corpo);
+}
+body {
+    margin: 0 7rem;
+}
+
+.botao-cadastro {
+    background-color: var(--vermelho);
+    color: var(--branco);
+    font-size: 16px;
+    font-weight: var(--peso-texto-medio);
+    border-radius: 8px;
+}
+.botao-entrar {
+    background-color: unset;
+    color: var(--cinza);
+    font-size: 16px;
+    font-weight: var(--peso-texto-medio);
+}
