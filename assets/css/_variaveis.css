@@ -1,5 +1,6 @@
 :root {
     --vermelho: #8E2424;
+    --vermelho-fundo: rgba(142, 36, 36, 0.05);
     --branco: #FFFFFF;
     --cinza: #667085;
     --cinza-escuro: #3A404E;

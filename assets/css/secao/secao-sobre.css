@@ -1,0 +1,10 @@
+.secao-sobre__titulo{
+    font-size: 1rem;
+}
+.secao-sobre__subtitulo{
+    font-size: 3rem;
+    line-height: 3.75rem;
+    font-weight: var(--peso-texto-destaque);
+    color: var(--azul-escuro);
+    margin: 1.5rem 0;
+}
