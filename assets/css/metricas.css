@@ -1,0 +1,21 @@
+.metricas {
+    display: flex;
+    column-gap: 2rem;
+}
+.metrica {
+    width: 17.5rem;
+}
+
+.metrica__titulo {
+    font-size: 3.75rem;
+    color: var(--vermelho);
+    margin-bottom: .75rem;
+}
+.metrica__subtitulo {
+    margin-bottom: .5rem;
+}
+.metrica__descricao {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: var(--cinza);
+}
