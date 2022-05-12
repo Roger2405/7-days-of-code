@@ -1,0 +1,15 @@
+.colaborador {
+    
+}
+.colaborador__avatar {
+    padding: 1rem;
+}
+.colaborador__nome {
+
+    line-height: 1.5rem;
+}
+.colaborador__profissao {
+    font-size: .875rem;
+    line-height: 1.25rem;
+    color: var(--cinza);
+}

@@ -4,7 +4,6 @@
     font-family: var(--texto-corpo);
 }
 body {
-    margin: 0 7rem;
 }
 
 .botao-cadastro {
@@ -21,7 +20,7 @@ body {
     font-weight: var(--peso-texto-medio);
 }
 
-.container {
+.margem {
     margin: 0 7rem;
 }
 .conteudo-centralizado {

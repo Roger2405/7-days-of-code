@@ -1,11 +1,12 @@
 .metricas {
     display: flex;
-    width: 100%;
+    position: relative;
+    width: auto;
     column-gap: 2rem;
     padding: 6rem 0;
 }
 .metrica {
-    width: inherit;
+    width: 100%;
 }
 
 .metrica__titulo {
