@@ -1,8 +1,11 @@
 .vagas {
+    padding: 0 20rem;
     width: 100%;
+    text-align: start;
 }
 .vagas__tipo {
     margin-top: 4rem;
+    width: 100%;
 }
 .vagas__tipo--titulo {
     

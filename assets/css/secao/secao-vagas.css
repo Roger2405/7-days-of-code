@@ -18,7 +18,6 @@
 }
 
 .secao-vagas__imagem {
-    position: static;
-    padding: 0 7rem;
     padding-top: 4rem;
+    width: calc(100vw - 14rem);
 }
